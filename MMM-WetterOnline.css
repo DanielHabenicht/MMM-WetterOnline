@@ -25,7 +25,8 @@
 
 
 .logo-container, .logo-container > * {
-	vertical-align: middle;
+        vertical-align: middle;
+        height: 110px;
 }
 
 .legend-logo {
